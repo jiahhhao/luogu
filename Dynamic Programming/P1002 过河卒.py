@@ -54,4 +54,4 @@ for y in range(m+1):
 
 
 # pprint.pprint(buf_checkerboard)
-print(buf_checkerboard[m][n])
+print(buf_checkerboard[m][n]) 
