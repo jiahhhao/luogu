@@ -15,7 +15,7 @@ for i in range(num_carpet):
 
 des_x, des_y = map(int, input().split())
 
-up_carpet = -1
+up_carpet = -1 
 
 for i in range(num_carpet-1, -1, -1):
     now_carpet_l = all_carpet_info[i][0] + all_carpet_info[i][2]
